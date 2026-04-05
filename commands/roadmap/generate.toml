@@ -1,0 +1,6 @@
+description = "Initialize a tactical Conductor Track and register it in `conductor/tracks.md`."
+prompt = """
+Activate the `conductor-roadmap` skill and generate a new Conductor Track with the following arguments: {{args}}.
+Execute: `node skills/conductor-roadmap/scripts/generate_tracks.cjs {{args}}`
+Wait for the script to finish and confirm the track's creation in `conductor/tracks/`.
+"""

@@ -2,8 +2,8 @@
   "name": "conductor-roadmap",
   "version": "1.0.0",
   "description": "Dynamic roadmap and milestone management for Conductor-based projects.",
-  "author": "your-username",
-  "repository": "https://github.com/your-username/conductor-roadmap-extension",
+  "author": "imraytiong",
+  "repository": "https://github.com/imraytiong/conductor-roadmap-extension",
   "capabilities": {
     "commands": true,
     "skills": true
