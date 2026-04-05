@@ -1,0 +1,6 @@
+description = "Create a new milestone document using the template."
+prompt = """
+Activate the `conductor-roadmap` skill and create a new milestone with the following arguments: {{args}}.
+Execute: `node skills/conductor-roadmap/scripts/create_milestone.cjs {{args}}`
+Report once the milestone file is created in `milestones/`.
+"""

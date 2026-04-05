@@ -1,0 +1,6 @@
+description = "Promote a milestone to a new phase (NOW, SOON, LATER, COMPLETED)."
+prompt = """
+Activate the `conductor-roadmap` skill and promote the milestone with the following arguments: {{args}}.
+Execute: `node skills/conductor-roadmap/scripts/promote_milestone.cjs {{args}}`
+Wait for the script to finish and confirm the update to `ROADMAP.md` and the milestone status.
+"""

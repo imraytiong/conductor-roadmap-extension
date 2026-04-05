@@ -1,0 +1,6 @@
+description = "Initialize the project ROADMAP.md and verify Conductor is installed."
+prompt = """
+Activate the `conductor-roadmap` skill and run the roadmap initialization script. 
+The command should check if `conductor/` exists and then create the `ROADMAP.md` from the template.
+Execute: `node skills/conductor-roadmap/scripts/init_roadmap.cjs`
+"""
