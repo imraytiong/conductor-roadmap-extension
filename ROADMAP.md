@@ -2,6 +2,7 @@
 
 ## NOW
 *Active milestones and imminent capabilities.*
+- [**v0.2**](milestones/v0_2.md): Fix race condition during concurrent file promotions.
 - [**automated-tests**](milestones/automated_tests.md): Add Jest tests for node scripts.
 
 ## SOON
